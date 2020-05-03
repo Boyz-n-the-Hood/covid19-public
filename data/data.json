@@ -1,6 +1,1043 @@
 {
     "data": [
         {
+            "current_positive": 221,
+            "date": "2020-02-24T18:00:00",
+            "death": 7,
+            "hospitalised": 127,
+            "intensive_care": 26,
+            "positive": 221,
+            "recovered": 1,
+            "rt": {
+                "high": 6.99,
+                "low": 1.01,
+                "mean": 3.0
+            },
+            "tested": 4324
+        },
+        {
+            "current_positive": 311,
+            "date": "2020-02-25T18:00:00",
+            "death": 10,
+            "hospitalised": 150,
+            "intensive_care": 35,
+            "positive": 93,
+            "recovered": 1,
+            "rt": {
+                "high": 2.37,
+                "low": 0.91,
+                "mean": 1.61
+            },
+            "tested": 8623
+        },
+        {
+            "current_positive": 385,
+            "date": "2020-02-26T18:00:00",
+            "death": 12,
+            "hospitalised": 164,
+            "intensive_care": 36,
+            "positive": 78,
+            "recovered": 3,
+            "rt": {
+                "high": 2.5100000000000002,
+                "low": 1.3800000000000001,
+                "mean": 1.92
+            },
+            "tested": 9587
+        },
+        {
+            "current_positive": 588,
+            "date": "2020-02-27T18:00:00",
+            "death": 17,
+            "hospitalised": 304,
+            "intensive_care": 56,
+            "positive": 250,
+            "recovered": 45,
+            "rt": {
+                "high": 2.37,
+                "low": 1.44,
+                "mean": 1.8800000000000001
+            },
+            "tested": 12014
+        },
+        {
+            "current_positive": 821,
+            "date": "2020-02-28T18:00:00",
+            "death": 21,
+            "hospitalised": 409,
+            "intensive_care": 64,
+            "positive": 238,
+            "recovered": 46,
+            "rt": {
+                "high": 2.34,
+                "low": 1.53,
+                "mean": 1.92
+            },
+            "tested": 15695
+        },
+        {
+            "current_positive": 1049,
+            "date": "2020-02-29T18:00:00",
+            "death": 29,
+            "hospitalised": 506,
+            "intensive_care": 105,
+            "positive": 240,
+            "recovered": 50,
+            "rt": {
+                "high": 2.38,
+                "low": 1.6500000000000001,
+                "mean": 2.0
+            },
+            "tested": 18661
+        },
+        {
+            "current_positive": 1577,
+            "date": "2020-03-01T18:00:00",
+            "death": 34,
+            "hospitalised": 779,
+            "intensive_care": 140,
+            "positive": 566,
+            "recovered": 83,
+            "rt": {
+                "high": 2.44,
+                "low": 1.78,
+                "mean": 2.11
+            },
+            "tested": 21127
+        },
+        {
+            "current_positive": 1835,
+            "date": "2020-03-02T18:00:00",
+            "death": 52,
+            "hospitalised": 908,
+            "intensive_care": 166,
+            "positive": 342,
+            "recovered": 149,
+            "rt": {
+                "high": 2.46,
+                "low": 1.85,
+                "mean": 2.15
+            },
+            "tested": 23345
+        },
+        {
+            "current_positive": 2263,
+            "date": "2020-03-03T18:00:00",
+            "death": 79,
+            "hospitalised": 1263,
+            "intensive_care": 229,
+            "positive": 466,
+            "recovered": 160,
+            "rt": {
+                "high": 2.5,
+                "low": 1.93,
+                "mean": 2.21
+            },
+            "tested": 25856
+        },
+        {
+            "current_positive": 2706,
+            "date": "2020-03-04T18:00:00",
+            "death": 107,
+            "hospitalised": 1641,
+            "intensive_care": 295,
+            "positive": 587,
+            "recovered": 276,
+            "rt": {
+                "high": 2.56,
+                "low": 2.0300000000000002,
+                "mean": 2.2800000000000002
+            },
+            "tested": 29837
+        },
+        {
+            "current_positive": 3296,
+            "date": "2020-03-05T18:00:00",
+            "death": 148,
+            "hospitalised": 2141,
+            "intensive_care": 351,
+            "positive": 769,
+            "recovered": 414,
+            "rt": {
+                "high": 2.6,
+                "low": 2.11,
+                "mean": 2.36
+            },
+            "tested": 32362
+        },
+        {
+            "current_positive": 3916,
+            "date": "2020-03-06T18:00:00",
+            "death": 197,
+            "hospitalised": 2856,
+            "intensive_care": 462,
+            "positive": 778,
+            "recovered": 523,
+            "rt": {
+                "high": 2.4,
+                "low": 1.94,
+                "mean": 2.17
+            },
+            "tested": 36359
+        },
+        {
+            "current_positive": 5061,
+            "date": "2020-03-07T18:00:00",
+            "death": 233,
+            "hospitalised": 3218,
+            "intensive_care": 567,
+            "positive": 1247,
+            "recovered": 589,
+            "rt": {
+                "high": 2.45,
+                "low": 2.0100000000000002,
+                "mean": 2.22
+            },
+            "tested": 42062
+        },
+        {
+            "current_positive": 6387,
+            "date": "2020-03-08T18:00:00",
+            "death": 366,
+            "hospitalised": 4207,
+            "intensive_care": 650,
+            "positive": 1492,
+            "recovered": 622,
+            "rt": {
+                "high": 2.42,
+                "low": 2.0100000000000002,
+                "mean": 2.22
+            },
+            "tested": 49937
+        },
+        {
+            "current_positive": 7985,
+            "date": "2020-03-09T18:00:00",
+            "death": 463,
+            "hospitalised": 5049,
+            "intensive_care": 733,
+            "positive": 1797,
+            "recovered": 724,
+            "rt": {
+                "high": 2.34,
+                "low": 1.95,
+                "mean": 2.14
+            },
+            "tested": 53826
+        },
+        {
+            "current_positive": 8514,
+            "date": "2020-03-10T18:00:00",
+            "death": 631,
+            "hospitalised": 5915,
+            "intensive_care": 877,
+            "positive": 977,
+            "recovered": 1004,
+            "rt": {
+                "high": 2.32,
+                "low": 1.95,
+                "mean": 2.13
+            },
+            "tested": 60761
+        },
+        {
+            "current_positive": 10590,
+            "date": "2020-03-11T17:00:00",
+            "death": 827,
+            "hospitalised": 6866,
+            "intensive_care": 1028,
+            "positive": 2313,
+            "recovered": 1045,
+            "rt": {
+                "high": 2.27,
+                "low": 1.92,
+                "mean": 2.1
+            },
+            "tested": 73154
+        },
+        {
+            "current_positive": 12839,
+            "date": "2020-03-12T17:00:00",
+            "death": 1016,
+            "hospitalised": 7803,
+            "intensive_care": 1153,
+            "positive": 2651,
+            "recovered": 1258,
+            "rt": {
+                "high": 2.14,
+                "low": 1.8,
+                "mean": 1.96
+            },
+            "tested": 86011
+        },
+        {
+            "current_positive": 14955,
+            "date": "2020-03-13T17:00:00",
+            "death": 1266,
+            "hospitalised": 8754,
+            "intensive_care": 1328,
+            "positive": 2547,
+            "recovered": 1439,
+            "rt": {
+                "high": 2.0,
+                "low": 1.68,
+                "mean": 1.84
+            },
+            "tested": 97488
+        },
+        {
+            "current_positive": 17750,
+            "date": "2020-03-14T17:00:00",
+            "death": 1441,
+            "hospitalised": 9890,
+            "intensive_care": 1518,
+            "positive": 3497,
+            "recovered": 1966,
+            "rt": {
+                "high": 1.9100000000000001,
+                "low": 1.6,
+                "mean": 1.76
+            },
+            "tested": 109170
+        },
+        {
+            "current_positive": 20603,
+            "date": "2020-03-15T17:00:00",
+            "death": 1809,
+            "hospitalised": 11335,
+            "intensive_care": 1672,
+            "positive": 3590,
+            "recovered": 2335,
+            "rt": {
+                "high": 1.94,
+                "low": 1.6400000000000001,
+                "mean": 1.79
+            },
+            "tested": 124899
+        },
+        {
+            "current_positive": 23073,
+            "date": "2020-03-16T17:00:00",
+            "death": 2158,
+            "hospitalised": 12876,
+            "intensive_care": 1851,
+            "positive": 3233,
+            "recovered": 2749,
+            "rt": {
+                "high": 1.8900000000000001,
+                "low": 1.6,
+                "mean": 1.74
+            },
+            "tested": 137962
+        },
+        {
+            "current_positive": 26062,
+            "date": "2020-03-17T17:00:00",
+            "death": 2503,
+            "hospitalised": 14954,
+            "intensive_care": 2060,
+            "positive": 3526,
+            "recovered": 2941,
+            "rt": {
+                "high": 1.8900000000000001,
+                "low": 1.61,
+                "mean": 1.74
+            },
+            "tested": 148657
+        },
+        {
+            "current_positive": 28710,
+            "date": "2020-03-18T17:00:00",
+            "death": 2978,
+            "hospitalised": 16620,
+            "intensive_care": 2257,
+            "positive": 4207,
+            "recovered": 4025,
+            "rt": {
+                "high": 1.82,
+                "low": 1.55,
+                "mean": 1.68
+            },
+            "tested": 165541
+        },
+        {
+            "current_positive": 33190,
+            "date": "2020-03-19T17:00:00",
+            "death": 3405,
+            "hospitalised": 18255,
+            "intensive_care": 2498,
+            "positive": 5322,
+            "recovered": 4440,
+            "rt": {
+                "high": 1.6600000000000001,
+                "low": 1.4000000000000001,
+                "mean": 1.54
+            },
+            "tested": 182777
+        },
+        {
+            "current_positive": 37860,
+            "date": "2020-03-20T17:00:00",
+            "death": 4032,
+            "hospitalised": 18675,
+            "intensive_care": 2655,
+            "positive": 5986,
+            "recovered": 5129,
+            "rt": {
+                "high": 1.57,
+                "low": 1.31,
+                "mean": 1.44
+            },
+            "tested": 206886
+        },
+        {
+            "current_positive": 42681,
+            "date": "2020-03-21T17:00:00",
+            "death": 4825,
+            "hospitalised": 20565,
+            "intensive_care": 2857,
+            "positive": 6557,
+            "recovered": 6072,
+            "rt": {
+                "high": 1.47,
+                "low": 1.21,
+                "mean": 1.33
+            },
+            "tested": 233222
+        },
+        {
+            "current_positive": 46638,
+            "date": "2020-03-22T17:00:00",
+            "death": 5476,
+            "hospitalised": 22855,
+            "intensive_care": 3009,
+            "positive": 5560,
+            "recovered": 7024,
+            "rt": {
+                "high": 1.37,
+                "low": 1.12,
+                "mean": 1.25
+            },
+            "tested": 258402
+        },
+        {
+            "current_positive": 50418,
+            "date": "2020-03-23T17:00:00",
+            "death": 6077,
+            "hospitalised": 23896,
+            "intensive_care": 3204,
+            "positive": 4789,
+            "recovered": 7432,
+            "rt": {
+                "high": 1.28,
+                "low": 1.03,
+                "mean": 1.1500000000000001
+            },
+            "tested": 275468
+        },
+        {
+            "current_positive": 54030,
+            "date": "2020-03-24T17:00:00",
+            "death": 6820,
+            "hospitalised": 25333,
+            "intensive_care": 3396,
+            "positive": 5249,
+            "recovered": 8326,
+            "rt": {
+                "high": 1.2,
+                "low": 0.9500000000000001,
+                "mean": 1.07
+            },
+            "tested": 296964
+        },
+        {
+            "current_positive": 57521,
+            "date": "2020-03-25T17:00:00",
+            "death": 7503,
+            "hospitalised": 26601,
+            "intensive_care": 3489,
+            "positive": 5210,
+            "recovered": 9362,
+            "rt": {
+                "high": 1.1400000000000001,
+                "low": 0.89,
+                "mean": 1.01
+            },
+            "tested": 324445
+        },
+        {
+            "current_positive": 62013,
+            "date": "2020-03-26T17:00:00",
+            "death": 8165,
+            "hospitalised": 28365,
+            "intensive_care": 3612,
+            "positive": 6153,
+            "recovered": 10361,
+            "rt": {
+                "high": 1.04,
+                "low": 0.79,
+                "mean": 0.91
+            },
+            "tested": 361060
+        },
+        {
+            "current_positive": 66414,
+            "date": "2020-03-27T17:00:00",
+            "death": 9134,
+            "hospitalised": 29761,
+            "intensive_care": 3732,
+            "positive": 5959,
+            "recovered": 10950,
+            "rt": {
+                "high": 1.0,
+                "low": 0.75,
+                "mean": 0.88
+            },
+            "tested": 394079
+        },
+        {
+            "current_positive": 70065,
+            "date": "2020-03-28T17:00:00",
+            "death": 10023,
+            "hospitalised": 30532,
+            "intensive_care": 3856,
+            "positive": 5974,
+            "recovered": 12384,
+            "rt": {
+                "high": 1.02,
+                "low": 0.76,
+                "mean": 0.88
+            },
+            "tested": 429526
+        },
+        {
+            "current_positive": 73880,
+            "date": "2020-03-29T17:00:00",
+            "death": 10779,
+            "hospitalised": 31292,
+            "intensive_care": 3906,
+            "positive": 5217,
+            "recovered": 13030,
+            "rt": {
+                "high": 0.96,
+                "low": 0.7000000000000001,
+                "mean": 0.8200000000000001
+            },
+            "tested": 454030
+        },
+        {
+            "current_positive": 75528,
+            "date": "2020-03-30T17:00:00",
+            "death": 11591,
+            "hospitalised": 31776,
+            "intensive_care": 3981,
+            "positive": 4050,
+            "recovered": 14620,
+            "rt": {
+                "high": 0.92,
+                "low": 0.66,
+                "mean": 0.78
+            },
+            "tested": 477359
+        },
+        {
+            "current_positive": 77635,
+            "date": "2020-03-31T17:00:00",
+            "death": 12428,
+            "hospitalised": 32215,
+            "intensive_care": 4023,
+            "positive": 4053,
+            "recovered": 15729,
+            "rt": {
+                "high": 0.91,
+                "low": 0.64,
+                "mean": 0.76
+            },
+            "tested": 506968
+        },
+        {
+            "current_positive": 80572,
+            "date": "2020-04-01T17:00:00",
+            "death": 13155,
+            "hospitalised": 32438,
+            "intensive_care": 4035,
+            "positive": 4782,
+            "recovered": 16847,
+            "rt": {
+                "high": 0.92,
+                "low": 0.65,
+                "mean": 0.78
+            },
+            "tested": 541423
+        },
+        {
+            "current_positive": 83049,
+            "date": "2020-04-02T17:00:00",
+            "death": 13915,
+            "hospitalised": 32593,
+            "intensive_care": 4053,
+            "positive": 4668,
+            "recovered": 18278,
+            "rt": {
+                "high": 0.92,
+                "low": 0.65,
+                "mean": 0.78
+            },
+            "tested": 581232
+        },
+        {
+            "current_positive": 85388,
+            "date": "2020-04-03T17:00:00",
+            "death": 14681,
+            "hospitalised": 32809,
+            "intensive_care": 4068,
+            "positive": 4585,
+            "recovered": 19758,
+            "rt": {
+                "high": 0.91,
+                "low": 0.64,
+                "mean": 0.78
+            },
+            "tested": 619849
+        },
+        {
+            "current_positive": 88274,
+            "date": "2020-04-04T17:00:00",
+            "death": 15362,
+            "hospitalised": 33004,
+            "intensive_care": 3994,
+            "positive": 4805,
+            "recovered": 20996,
+            "rt": {
+                "high": 0.98,
+                "low": 0.7000000000000001,
+                "mean": 0.8300000000000001
+            },
+            "tested": 657224
+        },
+        {
+            "current_positive": 91246,
+            "date": "2020-04-05T17:00:00",
+            "death": 15887,
+            "hospitalised": 32926,
+            "intensive_care": 3977,
+            "positive": 4316,
+            "recovered": 21815,
+            "rt": {
+                "high": 0.99,
+                "low": 0.71,
+                "mean": 0.84
+            },
+            "tested": 691461
+        },
+        {
+            "current_positive": 93187,
+            "date": "2020-04-06T17:00:00",
+            "death": 16523,
+            "hospitalised": 32874,
+            "intensive_care": 3898,
+            "positive": 3599,
+            "recovered": 22837,
+            "rt": {
+                "high": 0.9400000000000001,
+                "low": 0.66,
+                "mean": 0.8
+            },
+            "tested": 721732
+        },
+        {
+            "current_positive": 94067,
+            "date": "2020-04-07T17:00:00",
+            "death": 17127,
+            "hospitalised": 32510,
+            "intensive_care": 3792,
+            "positive": 3039,
+            "recovered": 24392,
+            "rt": {
+                "high": 1.0,
+                "low": 0.72,
+                "mean": 0.86
+            },
+            "tested": 755445
+        },
+        {
+            "current_positive": 95262,
+            "date": "2020-04-08T17:00:00",
+            "death": 17669,
+            "hospitalised": 32178,
+            "intensive_care": 3693,
+            "positive": 3836,
+            "recovered": 26491,
+            "rt": {
+                "high": 1.05,
+                "low": 0.77,
+                "mean": 0.92
+            },
+            "tested": 807125
+        },
+        {
+            "current_positive": 96877,
+            "date": "2020-04-09T17:00:00",
+            "death": 18279,
+            "hospitalised": 32004,
+            "intensive_care": 3605,
+            "positive": 4204,
+            "recovered": 28470,
+            "rt": {
+                "high": 1.07,
+                "low": 0.78,
+                "mean": 0.91
+            },
+            "tested": 853369
+        },
+        {
+            "current_positive": 98273,
+            "date": "2020-04-10T17:00:00",
+            "death": 18849,
+            "hospitalised": 31739,
+            "intensive_care": 3497,
+            "positive": 3951,
+            "recovered": 30455,
+            "rt": {
+                "high": 1.07,
+                "low": 0.78,
+                "mean": 0.91
+            },
+            "tested": 906864
+        },
+        {
+            "current_positive": 100269,
+            "date": "2020-04-11T17:00:00",
+            "death": 19468,
+            "hospitalised": 31525,
+            "intensive_care": 3381,
+            "positive": 4694,
+            "recovered": 32534,
+            "rt": {
+                "high": 1.03,
+                "low": 0.74,
+                "mean": 0.88
+            },
+            "tested": 963473
+        },
+        {
+            "current_positive": 102253,
+            "date": "2020-04-12T17:00:00",
+            "death": 19899,
+            "hospitalised": 31190,
+            "intensive_care": 3343,
+            "positive": 4092,
+            "recovered": 34211,
+            "rt": {
+                "high": 1.05,
+                "low": 0.76,
+                "mean": 0.9
+            },
+            "tested": 1010193
+        },
+        {
+            "current_positive": 103616,
+            "date": "2020-04-13T17:00:00",
+            "death": 20465,
+            "hospitalised": 31283,
+            "intensive_care": 3260,
+            "positive": 3153,
+            "recovered": 35435,
+            "rt": {
+                "high": 0.98,
+                "low": 0.6900000000000001,
+                "mean": 0.8300000000000001
+            },
+            "tested": 1046910
+        },
+        {
+            "current_positive": 104291,
+            "date": "2020-04-14T17:00:00",
+            "death": 21067,
+            "hospitalised": 31197,
+            "intensive_care": 3186,
+            "positive": 2972,
+            "recovered": 37130,
+            "rt": {
+                "high": 0.96,
+                "low": 0.66,
+                "mean": 0.79
+            },
+            "tested": 1073689
+        },
+        {
+            "current_positive": 105418,
+            "date": "2020-04-15T17:00:00",
+            "death": 21645,
+            "hospitalised": 30722,
+            "intensive_care": 3079,
+            "positive": 2667,
+            "recovered": 38092,
+            "rt": {
+                "high": 0.9500000000000001,
+                "low": 0.65,
+                "mean": 0.8
+            },
+            "tested": 1117404
+        },
+        {
+            "current_positive": 106607,
+            "date": "2020-04-16T17:00:00",
+            "death": 22170,
+            "hospitalised": 29829,
+            "intensive_care": 2936,
+            "positive": 3786,
+            "recovered": 40164,
+            "rt": {
+                "high": 0.88,
+                "low": 0.58,
+                "mean": 0.73
+            },
+            "tested": 1178403
+        },
+        {
+            "current_positive": 106962,
+            "date": "2020-04-17T17:00:00",
+            "death": 22745,
+            "hospitalised": 28598,
+            "intensive_care": 2812,
+            "positive": 3493,
+            "recovered": 42727,
+            "rt": {
+                "high": 0.93,
+                "low": 0.62,
+                "mean": 0.76
+            },
+            "tested": 1244108
+        },
+        {
+            "current_positive": 107771,
+            "date": "2020-04-18T17:00:00",
+            "death": 23227,
+            "hospitalised": 27740,
+            "intensive_care": 2733,
+            "positive": 3491,
+            "recovered": 44927,
+            "rt": {
+                "high": 1.03,
+                "low": 0.72,
+                "mean": 0.86
+            },
+            "tested": 1305833
+        },
+        {
+            "current_positive": 108257,
+            "date": "2020-04-19T17:00:00",
+            "death": 23660,
+            "hospitalised": 27668,
+            "intensive_care": 2635,
+            "positive": 3047,
+            "recovered": 47055,
+            "rt": {
+                "high": 1.02,
+                "low": 0.71,
+                "mean": 0.86
+            },
+            "tested": 1356541
+        },
+        {
+            "current_positive": 108237,
+            "date": "2020-04-20T17:00:00",
+            "death": 24114,
+            "hospitalised": 27479,
+            "intensive_care": 2573,
+            "positive": 2256,
+            "recovered": 48877,
+            "rt": {
+                "high": 1.05,
+                "low": 0.74,
+                "mean": 0.89
+            },
+            "tested": 1398024
+        },
+        {
+            "current_positive": 107709,
+            "date": "2020-04-21T17:00:00",
+            "death": 24648,
+            "hospitalised": 26605,
+            "intensive_care": 2471,
+            "positive": 2729,
+            "recovered": 51600,
+            "rt": {
+                "high": 0.9500000000000001,
+                "low": 0.64,
+                "mean": 0.8
+            },
+            "tested": 1450150
+        },
+        {
+            "current_positive": 107699,
+            "date": "2020-04-22T17:00:00",
+            "death": 25085,
+            "hospitalised": 26189,
+            "intensive_care": 2384,
+            "positive": 3370,
+            "recovered": 54543,
+            "rt": {
+                "high": 0.9500000000000001,
+                "low": 0.63,
+                "mean": 0.78
+            },
+            "tested": 1513251
+        },
+        {
+            "current_positive": 106848,
+            "date": "2020-04-23T17:00:00",
+            "death": 25549,
+            "hospitalised": 25138,
+            "intensive_care": 2267,
+            "positive": 2646,
+            "recovered": 57576,
+            "rt": {
+                "high": 0.89,
+                "low": 0.5700000000000001,
+                "mean": 0.73
+            },
+            "tested": 1579909
+        },
+        {
+            "current_positive": 106527,
+            "date": "2020-04-24T17:00:00",
+            "death": 25969,
+            "hospitalised": 24241,
+            "intensive_care": 2173,
+            "positive": 3021,
+            "recovered": 60498,
+            "rt": {
+                "high": 0.9,
+                "low": 0.5700000000000001,
+                "mean": 0.72
+            },
+            "tested": 1642356
+        },
+        {
+            "current_positive": 105847,
+            "date": "2020-04-25T17:00:00",
+            "death": 26384,
+            "hospitalised": 23635,
+            "intensive_care": 2102,
+            "positive": 2357,
+            "recovered": 63120,
+            "rt": {
+                "high": 0.9,
+                "low": 0.5700000000000001,
+                "mean": 0.73
+            },
+            "tested": 1707743
+        },
+        {
+            "current_positive": 106103,
+            "date": "2020-04-26T17:00:00",
+            "death": 26644,
+            "hospitalised": 23381,
+            "intensive_care": 2009,
+            "positive": 2324,
+            "recovered": 64928,
+            "rt": {
+                "high": 0.85,
+                "low": 0.51,
+                "mean": 0.67
+            },
+            "tested": 1757659
+        },
+        {
+            "current_positive": 105813,
+            "date": "2020-04-27T17:00:00",
+            "death": 26977,
+            "hospitalised": 22309,
+            "intensive_care": 1956,
+            "positive": 1739,
+            "recovered": 66624,
+            "rt": {
+                "high": 0.78,
+                "low": 0.44,
+                "mean": 0.61
+            },
+            "tested": 1789662
+        },
+        {
+            "current_positive": 105205,
+            "date": "2020-04-28T17:00:00",
+            "death": 27359,
+            "hospitalised": 21586,
+            "intensive_care": 1863,
+            "positive": 2091,
+            "recovered": 68941,
+            "rt": {
+                "high": 0.8300000000000001,
+                "low": 0.48,
+                "mean": 0.65
+            },
+            "tested": 1846934
+        },
+        {
+            "current_positive": 104657,
+            "date": "2020-04-29T17:00:00",
+            "death": 27682,
+            "hospitalised": 21005,
+            "intensive_care": 1795,
+            "positive": 2086,
+            "recovered": 71252,
+            "rt": {
+                "high": 0.85,
+                "low": 0.5,
+                "mean": 0.68
+            },
+            "tested": 1910761
+        },
+        {
+            "current_positive": 101551,
+            "date": "2020-04-30T17:00:00",
+            "death": 27967,
+            "hospitalised": 19843,
+            "intensive_care": 1694,
+            "positive": 1872,
+            "recovered": 75945,
+            "rt": {
+                "high": 0.96,
+                "low": 0.6,
+                "mean": 0.77
+            },
+            "tested": 1979217
+        },
+        {
+            "current_positive": 100943,
+            "date": "2020-05-01T17:00:00",
+            "death": 28236,
+            "hospitalised": 19147,
+            "intensive_care": 1578,
+            "positive": 1965,
+            "recovered": 78249,
+            "rt": {
+                "high": 1.01,
+                "low": 0.65,
+                "mean": 0.8200000000000001
+            },
+            "tested": 2053425
+        },
+        {
+            "current_positive": 100704,
+            "date": "2020-05-02T17:00:00",
+            "death": 28710,
+            "hospitalised": 18896,
+            "intensive_care": 1539,
+            "positive": 1900,
+            "recovered": 79914,
+            "rt": {
+                "high": 1.11,
+                "low": 0.75,
+                "mean": 0.92
+            },
+            "tested": 2108837
+        }
+    ],
+    "regions": [
+        {
             "code": "01",
             "data": [
                 {
@@ -16785,1053 +17822,6 @@
                 "date": {
                     "max": "2020-05-02T17:00:00",
                     "min": "2020-03-12T17:00:00"
-                }
-            }
-        },
-        {
-            "code": "ITA",
-            "data": [
-                {
-                    "current_positive": 221,
-                    "date": "2020-02-24T18:00:00",
-                    "death": 7,
-                    "hospitalised": 127,
-                    "intensive_care": 26,
-                    "positive": 221,
-                    "recovered": 1,
-                    "rt": {
-                        "high": 6.99,
-                        "low": 1.01,
-                        "mean": 3.0
-                    },
-                    "tested": 4324
-                },
-                {
-                    "current_positive": 311,
-                    "date": "2020-02-25T18:00:00",
-                    "death": 10,
-                    "hospitalised": 150,
-                    "intensive_care": 35,
-                    "positive": 93,
-                    "recovered": 1,
-                    "rt": {
-                        "high": 2.37,
-                        "low": 0.91,
-                        "mean": 1.61
-                    },
-                    "tested": 8623
-                },
-                {
-                    "current_positive": 385,
-                    "date": "2020-02-26T18:00:00",
-                    "death": 12,
-                    "hospitalised": 164,
-                    "intensive_care": 36,
-                    "positive": 78,
-                    "recovered": 3,
-                    "rt": {
-                        "high": 2.5100000000000002,
-                        "low": 1.3800000000000001,
-                        "mean": 1.92
-                    },
-                    "tested": 9587
-                },
-                {
-                    "current_positive": 588,
-                    "date": "2020-02-27T18:00:00",
-                    "death": 17,
-                    "hospitalised": 304,
-                    "intensive_care": 56,
-                    "positive": 250,
-                    "recovered": 45,
-                    "rt": {
-                        "high": 2.37,
-                        "low": 1.44,
-                        "mean": 1.8800000000000001
-                    },
-                    "tested": 12014
-                },
-                {
-                    "current_positive": 821,
-                    "date": "2020-02-28T18:00:00",
-                    "death": 21,
-                    "hospitalised": 409,
-                    "intensive_care": 64,
-                    "positive": 238,
-                    "recovered": 46,
-                    "rt": {
-                        "high": 2.34,
-                        "low": 1.53,
-                        "mean": 1.92
-                    },
-                    "tested": 15695
-                },
-                {
-                    "current_positive": 1049,
-                    "date": "2020-02-29T18:00:00",
-                    "death": 29,
-                    "hospitalised": 506,
-                    "intensive_care": 105,
-                    "positive": 240,
-                    "recovered": 50,
-                    "rt": {
-                        "high": 2.38,
-                        "low": 1.6500000000000001,
-                        "mean": 2.0
-                    },
-                    "tested": 18661
-                },
-                {
-                    "current_positive": 1577,
-                    "date": "2020-03-01T18:00:00",
-                    "death": 34,
-                    "hospitalised": 779,
-                    "intensive_care": 140,
-                    "positive": 566,
-                    "recovered": 83,
-                    "rt": {
-                        "high": 2.44,
-                        "low": 1.78,
-                        "mean": 2.11
-                    },
-                    "tested": 21127
-                },
-                {
-                    "current_positive": 1835,
-                    "date": "2020-03-02T18:00:00",
-                    "death": 52,
-                    "hospitalised": 908,
-                    "intensive_care": 166,
-                    "positive": 342,
-                    "recovered": 149,
-                    "rt": {
-                        "high": 2.46,
-                        "low": 1.85,
-                        "mean": 2.15
-                    },
-                    "tested": 23345
-                },
-                {
-                    "current_positive": 2263,
-                    "date": "2020-03-03T18:00:00",
-                    "death": 79,
-                    "hospitalised": 1263,
-                    "intensive_care": 229,
-                    "positive": 466,
-                    "recovered": 160,
-                    "rt": {
-                        "high": 2.5,
-                        "low": 1.93,
-                        "mean": 2.21
-                    },
-                    "tested": 25856
-                },
-                {
-                    "current_positive": 2706,
-                    "date": "2020-03-04T18:00:00",
-                    "death": 107,
-                    "hospitalised": 1641,
-                    "intensive_care": 295,
-                    "positive": 587,
-                    "recovered": 276,
-                    "rt": {
-                        "high": 2.56,
-                        "low": 2.0300000000000002,
-                        "mean": 2.2800000000000002
-                    },
-                    "tested": 29837
-                },
-                {
-                    "current_positive": 3296,
-                    "date": "2020-03-05T18:00:00",
-                    "death": 148,
-                    "hospitalised": 2141,
-                    "intensive_care": 351,
-                    "positive": 769,
-                    "recovered": 414,
-                    "rt": {
-                        "high": 2.6,
-                        "low": 2.11,
-                        "mean": 2.36
-                    },
-                    "tested": 32362
-                },
-                {
-                    "current_positive": 3916,
-                    "date": "2020-03-06T18:00:00",
-                    "death": 197,
-                    "hospitalised": 2856,
-                    "intensive_care": 462,
-                    "positive": 778,
-                    "recovered": 523,
-                    "rt": {
-                        "high": 2.4,
-                        "low": 1.94,
-                        "mean": 2.17
-                    },
-                    "tested": 36359
-                },
-                {
-                    "current_positive": 5061,
-                    "date": "2020-03-07T18:00:00",
-                    "death": 233,
-                    "hospitalised": 3218,
-                    "intensive_care": 567,
-                    "positive": 1247,
-                    "recovered": 589,
-                    "rt": {
-                        "high": 2.45,
-                        "low": 2.0100000000000002,
-                        "mean": 2.22
-                    },
-                    "tested": 42062
-                },
-                {
-                    "current_positive": 6387,
-                    "date": "2020-03-08T18:00:00",
-                    "death": 366,
-                    "hospitalised": 4207,
-                    "intensive_care": 650,
-                    "positive": 1492,
-                    "recovered": 622,
-                    "rt": {
-                        "high": 2.42,
-                        "low": 2.0100000000000002,
-                        "mean": 2.22
-                    },
-                    "tested": 49937
-                },
-                {
-                    "current_positive": 7985,
-                    "date": "2020-03-09T18:00:00",
-                    "death": 463,
-                    "hospitalised": 5049,
-                    "intensive_care": 733,
-                    "positive": 1797,
-                    "recovered": 724,
-                    "rt": {
-                        "high": 2.34,
-                        "low": 1.95,
-                        "mean": 2.14
-                    },
-                    "tested": 53826
-                },
-                {
-                    "current_positive": 8514,
-                    "date": "2020-03-10T18:00:00",
-                    "death": 631,
-                    "hospitalised": 5915,
-                    "intensive_care": 877,
-                    "positive": 977,
-                    "recovered": 1004,
-                    "rt": {
-                        "high": 2.32,
-                        "low": 1.95,
-                        "mean": 2.13
-                    },
-                    "tested": 60761
-                },
-                {
-                    "current_positive": 10590,
-                    "date": "2020-03-11T17:00:00",
-                    "death": 827,
-                    "hospitalised": 6866,
-                    "intensive_care": 1028,
-                    "positive": 2313,
-                    "recovered": 1045,
-                    "rt": {
-                        "high": 2.27,
-                        "low": 1.92,
-                        "mean": 2.1
-                    },
-                    "tested": 73154
-                },
-                {
-                    "current_positive": 12839,
-                    "date": "2020-03-12T17:00:00",
-                    "death": 1016,
-                    "hospitalised": 7803,
-                    "intensive_care": 1153,
-                    "positive": 2651,
-                    "recovered": 1258,
-                    "rt": {
-                        "high": 2.14,
-                        "low": 1.8,
-                        "mean": 1.96
-                    },
-                    "tested": 86011
-                },
-                {
-                    "current_positive": 14955,
-                    "date": "2020-03-13T17:00:00",
-                    "death": 1266,
-                    "hospitalised": 8754,
-                    "intensive_care": 1328,
-                    "positive": 2547,
-                    "recovered": 1439,
-                    "rt": {
-                        "high": 2.0,
-                        "low": 1.68,
-                        "mean": 1.84
-                    },
-                    "tested": 97488
-                },
-                {
-                    "current_positive": 17750,
-                    "date": "2020-03-14T17:00:00",
-                    "death": 1441,
-                    "hospitalised": 9890,
-                    "intensive_care": 1518,
-                    "positive": 3497,
-                    "recovered": 1966,
-                    "rt": {
-                        "high": 1.9100000000000001,
-                        "low": 1.6,
-                        "mean": 1.76
-                    },
-                    "tested": 109170
-                },
-                {
-                    "current_positive": 20603,
-                    "date": "2020-03-15T17:00:00",
-                    "death": 1809,
-                    "hospitalised": 11335,
-                    "intensive_care": 1672,
-                    "positive": 3590,
-                    "recovered": 2335,
-                    "rt": {
-                        "high": 1.94,
-                        "low": 1.6400000000000001,
-                        "mean": 1.79
-                    },
-                    "tested": 124899
-                },
-                {
-                    "current_positive": 23073,
-                    "date": "2020-03-16T17:00:00",
-                    "death": 2158,
-                    "hospitalised": 12876,
-                    "intensive_care": 1851,
-                    "positive": 3233,
-                    "recovered": 2749,
-                    "rt": {
-                        "high": 1.8900000000000001,
-                        "low": 1.6,
-                        "mean": 1.74
-                    },
-                    "tested": 137962
-                },
-                {
-                    "current_positive": 26062,
-                    "date": "2020-03-17T17:00:00",
-                    "death": 2503,
-                    "hospitalised": 14954,
-                    "intensive_care": 2060,
-                    "positive": 3526,
-                    "recovered": 2941,
-                    "rt": {
-                        "high": 1.8900000000000001,
-                        "low": 1.61,
-                        "mean": 1.74
-                    },
-                    "tested": 148657
-                },
-                {
-                    "current_positive": 28710,
-                    "date": "2020-03-18T17:00:00",
-                    "death": 2978,
-                    "hospitalised": 16620,
-                    "intensive_care": 2257,
-                    "positive": 4207,
-                    "recovered": 4025,
-                    "rt": {
-                        "high": 1.82,
-                        "low": 1.55,
-                        "mean": 1.68
-                    },
-                    "tested": 165541
-                },
-                {
-                    "current_positive": 33190,
-                    "date": "2020-03-19T17:00:00",
-                    "death": 3405,
-                    "hospitalised": 18255,
-                    "intensive_care": 2498,
-                    "positive": 5322,
-                    "recovered": 4440,
-                    "rt": {
-                        "high": 1.6600000000000001,
-                        "low": 1.4000000000000001,
-                        "mean": 1.54
-                    },
-                    "tested": 182777
-                },
-                {
-                    "current_positive": 37860,
-                    "date": "2020-03-20T17:00:00",
-                    "death": 4032,
-                    "hospitalised": 18675,
-                    "intensive_care": 2655,
-                    "positive": 5986,
-                    "recovered": 5129,
-                    "rt": {
-                        "high": 1.57,
-                        "low": 1.31,
-                        "mean": 1.44
-                    },
-                    "tested": 206886
-                },
-                {
-                    "current_positive": 42681,
-                    "date": "2020-03-21T17:00:00",
-                    "death": 4825,
-                    "hospitalised": 20565,
-                    "intensive_care": 2857,
-                    "positive": 6557,
-                    "recovered": 6072,
-                    "rt": {
-                        "high": 1.47,
-                        "low": 1.21,
-                        "mean": 1.33
-                    },
-                    "tested": 233222
-                },
-                {
-                    "current_positive": 46638,
-                    "date": "2020-03-22T17:00:00",
-                    "death": 5476,
-                    "hospitalised": 22855,
-                    "intensive_care": 3009,
-                    "positive": 5560,
-                    "recovered": 7024,
-                    "rt": {
-                        "high": 1.37,
-                        "low": 1.12,
-                        "mean": 1.25
-                    },
-                    "tested": 258402
-                },
-                {
-                    "current_positive": 50418,
-                    "date": "2020-03-23T17:00:00",
-                    "death": 6077,
-                    "hospitalised": 23896,
-                    "intensive_care": 3204,
-                    "positive": 4789,
-                    "recovered": 7432,
-                    "rt": {
-                        "high": 1.28,
-                        "low": 1.03,
-                        "mean": 1.1500000000000001
-                    },
-                    "tested": 275468
-                },
-                {
-                    "current_positive": 54030,
-                    "date": "2020-03-24T17:00:00",
-                    "death": 6820,
-                    "hospitalised": 25333,
-                    "intensive_care": 3396,
-                    "positive": 5249,
-                    "recovered": 8326,
-                    "rt": {
-                        "high": 1.2,
-                        "low": 0.9500000000000001,
-                        "mean": 1.07
-                    },
-                    "tested": 296964
-                },
-                {
-                    "current_positive": 57521,
-                    "date": "2020-03-25T17:00:00",
-                    "death": 7503,
-                    "hospitalised": 26601,
-                    "intensive_care": 3489,
-                    "positive": 5210,
-                    "recovered": 9362,
-                    "rt": {
-                        "high": 1.1400000000000001,
-                        "low": 0.89,
-                        "mean": 1.01
-                    },
-                    "tested": 324445
-                },
-                {
-                    "current_positive": 62013,
-                    "date": "2020-03-26T17:00:00",
-                    "death": 8165,
-                    "hospitalised": 28365,
-                    "intensive_care": 3612,
-                    "positive": 6153,
-                    "recovered": 10361,
-                    "rt": {
-                        "high": 1.04,
-                        "low": 0.79,
-                        "mean": 0.91
-                    },
-                    "tested": 361060
-                },
-                {
-                    "current_positive": 66414,
-                    "date": "2020-03-27T17:00:00",
-                    "death": 9134,
-                    "hospitalised": 29761,
-                    "intensive_care": 3732,
-                    "positive": 5959,
-                    "recovered": 10950,
-                    "rt": {
-                        "high": 1.0,
-                        "low": 0.75,
-                        "mean": 0.88
-                    },
-                    "tested": 394079
-                },
-                {
-                    "current_positive": 70065,
-                    "date": "2020-03-28T17:00:00",
-                    "death": 10023,
-                    "hospitalised": 30532,
-                    "intensive_care": 3856,
-                    "positive": 5974,
-                    "recovered": 12384,
-                    "rt": {
-                        "high": 1.02,
-                        "low": 0.76,
-                        "mean": 0.88
-                    },
-                    "tested": 429526
-                },
-                {
-                    "current_positive": 73880,
-                    "date": "2020-03-29T17:00:00",
-                    "death": 10779,
-                    "hospitalised": 31292,
-                    "intensive_care": 3906,
-                    "positive": 5217,
-                    "recovered": 13030,
-                    "rt": {
-                        "high": 0.96,
-                        "low": 0.7000000000000001,
-                        "mean": 0.8200000000000001
-                    },
-                    "tested": 454030
-                },
-                {
-                    "current_positive": 75528,
-                    "date": "2020-03-30T17:00:00",
-                    "death": 11591,
-                    "hospitalised": 31776,
-                    "intensive_care": 3981,
-                    "positive": 4050,
-                    "recovered": 14620,
-                    "rt": {
-                        "high": 0.92,
-                        "low": 0.66,
-                        "mean": 0.78
-                    },
-                    "tested": 477359
-                },
-                {
-                    "current_positive": 77635,
-                    "date": "2020-03-31T17:00:00",
-                    "death": 12428,
-                    "hospitalised": 32215,
-                    "intensive_care": 4023,
-                    "positive": 4053,
-                    "recovered": 15729,
-                    "rt": {
-                        "high": 0.91,
-                        "low": 0.64,
-                        "mean": 0.76
-                    },
-                    "tested": 506968
-                },
-                {
-                    "current_positive": 80572,
-                    "date": "2020-04-01T17:00:00",
-                    "death": 13155,
-                    "hospitalised": 32438,
-                    "intensive_care": 4035,
-                    "positive": 4782,
-                    "recovered": 16847,
-                    "rt": {
-                        "high": 0.92,
-                        "low": 0.65,
-                        "mean": 0.78
-                    },
-                    "tested": 541423
-                },
-                {
-                    "current_positive": 83049,
-                    "date": "2020-04-02T17:00:00",
-                    "death": 13915,
-                    "hospitalised": 32593,
-                    "intensive_care": 4053,
-                    "positive": 4668,
-                    "recovered": 18278,
-                    "rt": {
-                        "high": 0.92,
-                        "low": 0.65,
-                        "mean": 0.78
-                    },
-                    "tested": 581232
-                },
-                {
-                    "current_positive": 85388,
-                    "date": "2020-04-03T17:00:00",
-                    "death": 14681,
-                    "hospitalised": 32809,
-                    "intensive_care": 4068,
-                    "positive": 4585,
-                    "recovered": 19758,
-                    "rt": {
-                        "high": 0.91,
-                        "low": 0.64,
-                        "mean": 0.78
-                    },
-                    "tested": 619849
-                },
-                {
-                    "current_positive": 88274,
-                    "date": "2020-04-04T17:00:00",
-                    "death": 15362,
-                    "hospitalised": 33004,
-                    "intensive_care": 3994,
-                    "positive": 4805,
-                    "recovered": 20996,
-                    "rt": {
-                        "high": 0.98,
-                        "low": 0.7000000000000001,
-                        "mean": 0.8300000000000001
-                    },
-                    "tested": 657224
-                },
-                {
-                    "current_positive": 91246,
-                    "date": "2020-04-05T17:00:00",
-                    "death": 15887,
-                    "hospitalised": 32926,
-                    "intensive_care": 3977,
-                    "positive": 4316,
-                    "recovered": 21815,
-                    "rt": {
-                        "high": 0.99,
-                        "low": 0.71,
-                        "mean": 0.84
-                    },
-                    "tested": 691461
-                },
-                {
-                    "current_positive": 93187,
-                    "date": "2020-04-06T17:00:00",
-                    "death": 16523,
-                    "hospitalised": 32874,
-                    "intensive_care": 3898,
-                    "positive": 3599,
-                    "recovered": 22837,
-                    "rt": {
-                        "high": 0.9400000000000001,
-                        "low": 0.66,
-                        "mean": 0.8
-                    },
-                    "tested": 721732
-                },
-                {
-                    "current_positive": 94067,
-                    "date": "2020-04-07T17:00:00",
-                    "death": 17127,
-                    "hospitalised": 32510,
-                    "intensive_care": 3792,
-                    "positive": 3039,
-                    "recovered": 24392,
-                    "rt": {
-                        "high": 1.0,
-                        "low": 0.72,
-                        "mean": 0.86
-                    },
-                    "tested": 755445
-                },
-                {
-                    "current_positive": 95262,
-                    "date": "2020-04-08T17:00:00",
-                    "death": 17669,
-                    "hospitalised": 32178,
-                    "intensive_care": 3693,
-                    "positive": 3836,
-                    "recovered": 26491,
-                    "rt": {
-                        "high": 1.05,
-                        "low": 0.77,
-                        "mean": 0.92
-                    },
-                    "tested": 807125
-                },
-                {
-                    "current_positive": 96877,
-                    "date": "2020-04-09T17:00:00",
-                    "death": 18279,
-                    "hospitalised": 32004,
-                    "intensive_care": 3605,
-                    "positive": 4204,
-                    "recovered": 28470,
-                    "rt": {
-                        "high": 1.07,
-                        "low": 0.78,
-                        "mean": 0.91
-                    },
-                    "tested": 853369
-                },
-                {
-                    "current_positive": 98273,
-                    "date": "2020-04-10T17:00:00",
-                    "death": 18849,
-                    "hospitalised": 31739,
-                    "intensive_care": 3497,
-                    "positive": 3951,
-                    "recovered": 30455,
-                    "rt": {
-                        "high": 1.07,
-                        "low": 0.78,
-                        "mean": 0.91
-                    },
-                    "tested": 906864
-                },
-                {
-                    "current_positive": 100269,
-                    "date": "2020-04-11T17:00:00",
-                    "death": 19468,
-                    "hospitalised": 31525,
-                    "intensive_care": 3381,
-                    "positive": 4694,
-                    "recovered": 32534,
-                    "rt": {
-                        "high": 1.03,
-                        "low": 0.74,
-                        "mean": 0.88
-                    },
-                    "tested": 963473
-                },
-                {
-                    "current_positive": 102253,
-                    "date": "2020-04-12T17:00:00",
-                    "death": 19899,
-                    "hospitalised": 31190,
-                    "intensive_care": 3343,
-                    "positive": 4092,
-                    "recovered": 34211,
-                    "rt": {
-                        "high": 1.05,
-                        "low": 0.76,
-                        "mean": 0.9
-                    },
-                    "tested": 1010193
-                },
-                {
-                    "current_positive": 103616,
-                    "date": "2020-04-13T17:00:00",
-                    "death": 20465,
-                    "hospitalised": 31283,
-                    "intensive_care": 3260,
-                    "positive": 3153,
-                    "recovered": 35435,
-                    "rt": {
-                        "high": 0.98,
-                        "low": 0.6900000000000001,
-                        "mean": 0.8300000000000001
-                    },
-                    "tested": 1046910
-                },
-                {
-                    "current_positive": 104291,
-                    "date": "2020-04-14T17:00:00",
-                    "death": 21067,
-                    "hospitalised": 31197,
-                    "intensive_care": 3186,
-                    "positive": 2972,
-                    "recovered": 37130,
-                    "rt": {
-                        "high": 0.96,
-                        "low": 0.66,
-                        "mean": 0.79
-                    },
-                    "tested": 1073689
-                },
-                {
-                    "current_positive": 105418,
-                    "date": "2020-04-15T17:00:00",
-                    "death": 21645,
-                    "hospitalised": 30722,
-                    "intensive_care": 3079,
-                    "positive": 2667,
-                    "recovered": 38092,
-                    "rt": {
-                        "high": 0.9500000000000001,
-                        "low": 0.65,
-                        "mean": 0.8
-                    },
-                    "tested": 1117404
-                },
-                {
-                    "current_positive": 106607,
-                    "date": "2020-04-16T17:00:00",
-                    "death": 22170,
-                    "hospitalised": 29829,
-                    "intensive_care": 2936,
-                    "positive": 3786,
-                    "recovered": 40164,
-                    "rt": {
-                        "high": 0.88,
-                        "low": 0.58,
-                        "mean": 0.73
-                    },
-                    "tested": 1178403
-                },
-                {
-                    "current_positive": 106962,
-                    "date": "2020-04-17T17:00:00",
-                    "death": 22745,
-                    "hospitalised": 28598,
-                    "intensive_care": 2812,
-                    "positive": 3493,
-                    "recovered": 42727,
-                    "rt": {
-                        "high": 0.93,
-                        "low": 0.62,
-                        "mean": 0.76
-                    },
-                    "tested": 1244108
-                },
-                {
-                    "current_positive": 107771,
-                    "date": "2020-04-18T17:00:00",
-                    "death": 23227,
-                    "hospitalised": 27740,
-                    "intensive_care": 2733,
-                    "positive": 3491,
-                    "recovered": 44927,
-                    "rt": {
-                        "high": 1.03,
-                        "low": 0.72,
-                        "mean": 0.86
-                    },
-                    "tested": 1305833
-                },
-                {
-                    "current_positive": 108257,
-                    "date": "2020-04-19T17:00:00",
-                    "death": 23660,
-                    "hospitalised": 27668,
-                    "intensive_care": 2635,
-                    "positive": 3047,
-                    "recovered": 47055,
-                    "rt": {
-                        "high": 1.02,
-                        "low": 0.71,
-                        "mean": 0.86
-                    },
-                    "tested": 1356541
-                },
-                {
-                    "current_positive": 108237,
-                    "date": "2020-04-20T17:00:00",
-                    "death": 24114,
-                    "hospitalised": 27479,
-                    "intensive_care": 2573,
-                    "positive": 2256,
-                    "recovered": 48877,
-                    "rt": {
-                        "high": 1.05,
-                        "low": 0.74,
-                        "mean": 0.89
-                    },
-                    "tested": 1398024
-                },
-                {
-                    "current_positive": 107709,
-                    "date": "2020-04-21T17:00:00",
-                    "death": 24648,
-                    "hospitalised": 26605,
-                    "intensive_care": 2471,
-                    "positive": 2729,
-                    "recovered": 51600,
-                    "rt": {
-                        "high": 0.9500000000000001,
-                        "low": 0.64,
-                        "mean": 0.8
-                    },
-                    "tested": 1450150
-                },
-                {
-                    "current_positive": 107699,
-                    "date": "2020-04-22T17:00:00",
-                    "death": 25085,
-                    "hospitalised": 26189,
-                    "intensive_care": 2384,
-                    "positive": 3370,
-                    "recovered": 54543,
-                    "rt": {
-                        "high": 0.9500000000000001,
-                        "low": 0.63,
-                        "mean": 0.78
-                    },
-                    "tested": 1513251
-                },
-                {
-                    "current_positive": 106848,
-                    "date": "2020-04-23T17:00:00",
-                    "death": 25549,
-                    "hospitalised": 25138,
-                    "intensive_care": 2267,
-                    "positive": 2646,
-                    "recovered": 57576,
-                    "rt": {
-                        "high": 0.89,
-                        "low": 0.5700000000000001,
-                        "mean": 0.73
-                    },
-                    "tested": 1579909
-                },
-                {
-                    "current_positive": 106527,
-                    "date": "2020-04-24T17:00:00",
-                    "death": 25969,
-                    "hospitalised": 24241,
-                    "intensive_care": 2173,
-                    "positive": 3021,
-                    "recovered": 60498,
-                    "rt": {
-                        "high": 0.9,
-                        "low": 0.5700000000000001,
-                        "mean": 0.72
-                    },
-                    "tested": 1642356
-                },
-                {
-                    "current_positive": 105847,
-                    "date": "2020-04-25T17:00:00",
-                    "death": 26384,
-                    "hospitalised": 23635,
-                    "intensive_care": 2102,
-                    "positive": 2357,
-                    "recovered": 63120,
-                    "rt": {
-                        "high": 0.9,
-                        "low": 0.5700000000000001,
-                        "mean": 0.73
-                    },
-                    "tested": 1707743
-                },
-                {
-                    "current_positive": 106103,
-                    "date": "2020-04-26T17:00:00",
-                    "death": 26644,
-                    "hospitalised": 23381,
-                    "intensive_care": 2009,
-                    "positive": 2324,
-                    "recovered": 64928,
-                    "rt": {
-                        "high": 0.85,
-                        "low": 0.51,
-                        "mean": 0.67
-                    },
-                    "tested": 1757659
-                },
-                {
-                    "current_positive": 105813,
-                    "date": "2020-04-27T17:00:00",
-                    "death": 26977,
-                    "hospitalised": 22309,
-                    "intensive_care": 1956,
-                    "positive": 1739,
-                    "recovered": 66624,
-                    "rt": {
-                        "high": 0.78,
-                        "low": 0.44,
-                        "mean": 0.61
-                    },
-                    "tested": 1789662
-                },
-                {
-                    "current_positive": 105205,
-                    "date": "2020-04-28T17:00:00",
-                    "death": 27359,
-                    "hospitalised": 21586,
-                    "intensive_care": 1863,
-                    "positive": 2091,
-                    "recovered": 68941,
-                    "rt": {
-                        "high": 0.8300000000000001,
-                        "low": 0.48,
-                        "mean": 0.65
-                    },
-                    "tested": 1846934
-                },
-                {
-                    "current_positive": 104657,
-                    "date": "2020-04-29T17:00:00",
-                    "death": 27682,
-                    "hospitalised": 21005,
-                    "intensive_care": 1795,
-                    "positive": 2086,
-                    "recovered": 71252,
-                    "rt": {
-                        "high": 0.85,
-                        "low": 0.5,
-                        "mean": 0.68
-                    },
-                    "tested": 1910761
-                },
-                {
-                    "current_positive": 101551,
-                    "date": "2020-04-30T17:00:00",
-                    "death": 27967,
-                    "hospitalised": 19843,
-                    "intensive_care": 1694,
-                    "positive": 1872,
-                    "recovered": 75945,
-                    "rt": {
-                        "high": 0.96,
-                        "low": 0.6,
-                        "mean": 0.77
-                    },
-                    "tested": 1979217
-                },
-                {
-                    "current_positive": 100943,
-                    "date": "2020-05-01T17:00:00",
-                    "death": 28236,
-                    "hospitalised": 19147,
-                    "intensive_care": 1578,
-                    "positive": 1965,
-                    "recovered": 78249,
-                    "rt": {
-                        "high": 1.01,
-                        "low": 0.65,
-                        "mean": 0.8200000000000001
-                    },
-                    "tested": 2053425
-                },
-                {
-                    "current_positive": 100704,
-                    "date": "2020-05-02T17:00:00",
-                    "death": 28710,
-                    "hospitalised": 18896,
-                    "intensive_care": 1539,
-                    "positive": 1900,
-                    "recovered": 79914,
-                    "rt": {
-                        "high": 1.11,
-                        "low": 0.75,
-                        "mean": 0.92
-                    },
-                    "tested": 2108837
-                }
-            ],
-            "name": "Italia",
-            "summary": {
-                "date": {
-                    "max": "2020-05-02T17:00:00",
-                    "min": "2020-02-24T18:00:00"
                 }
             }
         }
