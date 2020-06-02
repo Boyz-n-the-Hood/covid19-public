@@ -1404,9 +1404,9 @@
             "positive": 584,
             "recovered": 147101,
             "rt": {
-                "high": 0.98,
-                "low": 0.44,
-                "mean": 0.7000000000000001
+                "high": 0.99,
+                "low": 0.45,
+                "mean": 0.71
             },
             "tested": 3607251
         },
@@ -1419,9 +1419,9 @@
             "positive": 593,
             "recovered": 150604,
             "rt": {
-                "high": 0.9500000000000001,
-                "low": 0.4,
-                "mean": 0.66
+                "high": 0.96,
+                "low": 0.41000000000000003,
+                "mean": 0.67
             },
             "tested": 3683144
         },
@@ -1434,9 +1434,9 @@
             "positive": 516,
             "recovered": 152844,
             "rt": {
-                "high": 0.99,
-                "low": 0.43,
-                "mean": 0.6900000000000001
+                "high": 0.96,
+                "low": 0.4,
+                "mean": 0.66
             },
             "tested": 3755279
         },
@@ -1449,24 +1449,24 @@
             "positive": 416,
             "recovered": 155633,
             "rt": {
-                "high": 1.01,
-                "low": 0.45,
-                "mean": 0.72
+                "high": 0.98,
+                "low": 0.42,
+                "mean": 0.6900000000000001
             },
             "tested": 3824621
         },
         {
-            "current_positive": 42075,
+            "current_positive": 42097,
             "date": "2020-05-31T17:00:00",
             "death": 33415,
             "hospitalised": 6822,
             "intensive_care": 435,
-            "positive": 333,
+            "positive": 355,
             "recovered": 157507,
             "rt": {
-                "high": 1.0,
-                "low": 0.43,
-                "mean": 0.7000000000000001
+                "high": 0.97,
+                "low": 0.4,
+                "mean": 0.67
             },
             "tested": 3878739
         },
@@ -1479,11 +1479,26 @@
             "positive": 178,
             "recovered": 158355,
             "rt": {
-                "high": 0.92,
-                "low": 0.34,
-                "mean": 0.61
+                "high": 0.91,
+                "low": 0.33,
+                "mean": 0.6
             },
             "tested": 3910133
+        },
+        {
+            "current_positive": 39893,
+            "date": "2020-06-02T17:00:00",
+            "death": 33530,
+            "hospitalised": 6324,
+            "intensive_care": 408,
+            "positive": 318,
+            "recovered": 160092,
+            "rt": {
+                "high": 0.84,
+                "low": 0.25,
+                "mean": 0.54
+            },
+            "tested": 3962292
         }
     ],
     "regions": [
@@ -2804,9 +2819,9 @@
                     "positive": 82,
                     "recovered": 21435,
                     "rt": {
-                        "high": 1.1400000000000001,
-                        "low": 0.2,
-                        "mean": 0.66
+                        "high": 1.09,
+                        "low": 0.16,
+                        "mean": 0.65
                     },
                     "tested": 315828
                 },
@@ -2834,17 +2849,32 @@
                     "positive": 21,
                     "recovered": 21720,
                     "rt": {
-                        "high": 1.09,
-                        "low": 0.15,
-                        "mean": 0.63
+                        "high": 1.1300000000000001,
+                        "low": 0.18,
+                        "mean": 0.64
                     },
                     "tested": 321476
+                },
+                {
+                    "current_positive": 4828,
+                    "date": "2020-06-02T17:00:00",
+                    "death": 3884,
+                    "hospitalised": 895,
+                    "intensive_care": 46,
+                    "positive": 57,
+                    "recovered": 22003,
+                    "rt": {
+                        "high": 1.1400000000000001,
+                        "low": 0.18,
+                        "mean": 0.65
+                    },
+                    "tested": 325097
                 }
             ],
             "name": "Piemonte",
             "summary": {
                 "date": {
-                    "max": "2020-06-01T17:00:00",
+                    "max": "2020-06-02T17:00:00",
                     "min": "2020-03-01T17:00:00"
                 }
             }
@@ -4763,9 +4793,9 @@
                     "positive": 354,
                     "recovered": 49842,
                     "rt": {
-                        "high": 1.12,
-                        "low": 0.48,
-                        "mean": 0.79
+                        "high": 1.09,
+                        "low": 0.45,
+                        "mean": 0.76
                     },
                     "tested": 727146
                 },
@@ -4778,9 +4808,9 @@
                     "positive": 221,
                     "recovered": 50870,
                     "rt": {
-                        "high": 1.1400000000000001,
-                        "low": 0.49,
-                        "mean": 0.8
+                        "high": 1.11,
+                        "low": 0.46,
+                        "mean": 0.77
                     },
                     "tested": 741447
                 },
@@ -4793,9 +4823,9 @@
                     "positive": 210,
                     "recovered": 51860,
                     "rt": {
-                        "high": 1.1,
-                        "low": 0.45,
-                        "mean": 0.77
+                        "high": 1.09,
+                        "low": 0.43,
+                        "mean": 0.74
                     },
                     "tested": 753874
                 },
@@ -4808,17 +4838,32 @@
                     "positive": 50,
                     "recovered": 52026,
                     "rt": {
-                        "high": 0.98,
+                        "high": 0.99,
                         "low": 0.32,
-                        "mean": 0.65
+                        "mean": 0.63
                     },
                     "tested": 757446
+                },
+                {
+                    "current_positive": 20255,
+                    "date": "2020-06-02T17:00:00",
+                    "death": 16143,
+                    "hospitalised": 3187,
+                    "intensive_care": 166,
+                    "positive": 187,
+                    "recovered": 52807,
+                    "rt": {
+                        "high": 0.9,
+                        "low": 0.22,
+                        "mean": 0.54
+                    },
+                    "tested": 766122
                 }
             ],
             "name": "Lombardia",
             "summary": {
                 "date": {
-                    "max": "2020-06-01T17:00:00",
+                    "max": "2020-06-02T17:00:00",
                     "min": "2020-02-24T18:00:00"
                 }
             }
@@ -8459,9 +8504,9 @@
                     "positive": 14,
                     "recovered": 7173,
                     "rt": {
-                        "high": 1.21,
-                        "low": 0.15,
-                        "mean": 0.67
+                        "high": 1.18,
+                        "low": 0.13,
+                        "mean": 0.65
                     },
                     "tested": 102173
                 },
@@ -8476,7 +8521,7 @@
                     "rt": {
                         "high": 1.24,
                         "low": 0.16,
-                        "mean": 0.7000000000000001
+                        "mean": 0.6900000000000001
                     },
                     "tested": 104892
                 },
@@ -8489,9 +8534,9 @@
                     "positive": 12,
                     "recovered": 7529,
                     "rt": {
-                        "high": 1.25,
-                        "low": 0.16,
-                        "mean": 0.71
+                        "high": 1.22,
+                        "low": 0.14,
+                        "mean": 0.67
                     },
                     "tested": 106363
                 },
@@ -8504,17 +8549,32 @@
                     "positive": 56,
                     "recovered": 7641,
                     "rt": {
-                        "high": 1.29,
-                        "low": 0.18,
-                        "mean": 0.74
+                        "high": 1.21,
+                        "low": 0.12,
+                        "mean": 0.6900000000000001
                     },
                     "tested": 107787
+                },
+                {
+                    "current_positive": 546,
+                    "date": "2020-06-02T17:00:00",
+                    "death": 1468,
+                    "hospitalised": 182,
+                    "intensive_care": 7,
+                    "positive": 15,
+                    "recovered": 7720,
+                    "rt": {
+                        "high": 1.29,
+                        "low": 0.17,
+                        "mean": 0.73
+                    },
+                    "tested": 109060
                 }
             ],
             "name": "Liguria",
             "summary": {
                 "date": {
-                    "max": "2020-06-01T17:00:00",
+                    "max": "2020-06-02T17:00:00",
                     "min": "2020-02-26T18:00:00"
                 }
             }
@@ -9941,9 +10001,9 @@
                     "positive": 38,
                     "recovered": 20073,
                     "rt": {
-                        "high": 1.11,
-                        "low": 0.1,
-                        "mean": 0.6
+                        "high": 1.09,
+                        "low": 0.09,
+                        "mean": 0.58
                     },
                     "tested": 316909
                 },
@@ -9956,9 +10016,9 @@
                     "positive": 20,
                     "recovered": 20373,
                     "rt": {
-                        "high": 1.1300000000000001,
-                        "low": 0.1,
-                        "mean": 0.63
+                        "high": 1.09,
+                        "low": 0.08,
+                        "mean": 0.59
                     },
                     "tested": 321373
                 },
@@ -9971,9 +10031,9 @@
                     "positive": 31,
                     "recovered": 20513,
                     "rt": {
-                        "high": 1.1400000000000001,
+                        "high": 1.1300000000000001,
                         "low": 0.1,
-                        "mean": 0.64
+                        "mean": 0.6
                     },
                     "tested": 325482
                 },
@@ -9986,17 +10046,32 @@
                     "positive": 19,
                     "recovered": 20617,
                     "rt": {
-                        "high": 1.1500000000000001,
+                        "high": 1.1400000000000001,
                         "low": 0.1,
-                        "mean": 0.64
+                        "mean": 0.61
                     },
                     "tested": 329358
+                },
+                {
+                    "current_positive": 2912,
+                    "date": "2020-06-02T17:00:00",
+                    "death": 4136,
+                    "hospitalised": 408,
+                    "intensive_care": 50,
+                    "positive": 19,
+                    "recovered": 20780,
+                    "rt": {
+                        "high": 1.06,
+                        "low": 0.06,
+                        "mean": 0.55
+                    },
+                    "tested": 333629
                 }
             ],
             "name": "Emilia-Romagna",
             "summary": {
                 "date": {
-                    "max": "2020-06-01T17:00:00",
+                    "max": "2020-06-02T17:00:00",
                     "min": "2020-02-24T18:00:00"
                 }
             }
@@ -11213,9 +11288,9 @@
                     "positive": 15,
                     "recovered": 7349,
                     "rt": {
-                        "high": 1.1,
-                        "low": 0.03,
-                        "mean": 0.55
+                        "high": 1.06,
+                        "low": 0.01,
+                        "mean": 0.53
                     },
                     "tested": 229135
                 },
@@ -11228,9 +11303,9 @@
                     "positive": 12,
                     "recovered": 7595,
                     "rt": {
-                        "high": 1.1300000000000001,
-                        "low": 0.05,
-                        "mean": 0.55
+                        "high": 1.09,
+                        "low": 0.03,
+                        "mean": 0.52
                     },
                     "tested": 238667
                 },
@@ -11243,17 +11318,32 @@
                     "positive": 12,
                     "recovered": 7897,
                     "rt": {
-                        "high": 1.12,
-                        "low": 0.04,
-                        "mean": 0.54
+                        "high": 1.08,
+                        "low": 0.02,
+                        "mean": 0.51
                     },
                     "tested": 249441
+                },
+                {
+                    "current_positive": 1011,
+                    "date": "2020-06-02T17:00:00",
+                    "death": 1053,
+                    "hospitalised": 110,
+                    "intensive_care": 25,
+                    "positive": 10,
+                    "recovered": 8053,
+                    "rt": {
+                        "high": 1.05,
+                        "low": 0.01,
+                        "mean": 0.47000000000000003
+                    },
+                    "tested": 257178
                 }
             ],
             "name": "Toscana",
             "summary": {
                 "date": {
-                    "max": "2020-05-30T17:00:00",
+                    "max": "2020-06-02T17:00:00",
                     "min": "2020-03-04T17:00:00"
                 }
             }
@@ -21218,7 +21308,7 @@
     ],
     "summary": {
         "date": {
-            "max": "2020-06-01T17:00:00",
+            "max": "2020-06-02T17:00:00",
             "min": "2020-02-24T18:00:00"
         }
     }
