@@ -1749,9 +1749,9 @@
             "positive": 251,
             "recovered": 181907,
             "rt": {
-                "high": 1.23,
-                "low": 0.59,
-                "mean": 0.9
+                "high": 1.19,
+                "low": 0.55,
+                "mean": 0.85
             },
             "tested": 4889103
         },
@@ -1764,9 +1764,9 @@
             "positive": 262,
             "recovered": 182453,
             "rt": {
-                "high": 1.21,
-                "low": 0.5700000000000001,
-                "mean": 0.88
+                "high": 1.16,
+                "low": 0.51,
+                "mean": 0.81
             },
             "tested": 4943825
         },
@@ -1779,9 +1779,9 @@
             "positive": 224,
             "recovered": 182893,
             "rt": {
-                "high": 1.23,
-                "low": 0.58,
-                "mean": 0.89
+                "high": 1.1300000000000001,
+                "low": 0.48,
+                "mean": 0.8
             },
             "tested": 4984370
         },
@@ -1794,11 +1794,26 @@
             "positive": 218,
             "recovered": 183426,
             "rt": {
-                "high": 1.19,
-                "low": 0.54,
-                "mean": 0.85
+                "high": 1.09,
+                "low": 0.43,
+                "mean": 0.75
             },
             "tested": 5013342
+        },
+        {
+            "current_positive": 19573,
+            "date": "2020-06-23T17:00:00",
+            "death": 34675,
+            "hospitalised": 1968,
+            "intensive_care": 115,
+            "positive": 122,
+            "recovered": 184585,
+            "rt": {
+                "high": 1.03,
+                "low": 0.36,
+                "mean": 0.6900000000000001
+            },
+            "tested": 5053827
         }
     ],
     "regions": [
@@ -22883,7 +22898,7 @@
     ],
     "summary": {
         "date": {
-            "max": "2020-06-22T17:00:00",
+            "max": "2020-06-23T17:00:00",
             "min": "2020-02-24T18:00:00"
         }
     }
